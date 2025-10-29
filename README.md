@@ -1,2 +1,3 @@
 # git-playground
-play with git!  
+play with git!
+Let's git it!
